@@ -40,10 +40,9 @@ Main/
 
 1. Download [`vidguard-extension.zip`](vidguard-extension.zip)
 2. Unzip it
-3. Open Chrome and go to `chrome://extensions`
-4. Enable **Developer mode** (toggle, top right)
-5. Click **Load unpacked** and select the `vidguard-extension/` folder
-6. The VidGuard shield icon appears in your toolbar
+3. Open FireFox and go to `about:debugging`
+4. Click **Load unpacked** and select the `vidguard-extension/` manifest.json
+5. The VidGuard shield icon appears in your toolbar
 
 ### How to use
 
